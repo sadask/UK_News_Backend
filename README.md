@@ -3,7 +3,7 @@
 1. Please clone the repo using the command : `git clone https://github.com/sadask/UK_News_Backend.git  UK_News_Backend`
 2. Then enter into the folder : `cd UK_News_Backend/`
 3. Run command `npm install`
-4. Create an .env file with following information.
+4. Create an .env file with the following information in the root directory.
 
     `
         PORT=3001
