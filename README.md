@@ -5,8 +5,8 @@
 3. Run command `npm install`
 4. Create an .env file with the following information in the root directory.
 
-    `PORT=3001`
-    `API_KEY=<Create API from https://newsapi.org/ and add it here>`
+    ####`PORT=3001`
+    ####`API_KEY=<Create API from https://newsapi.org/ and add it here>`
 
 5. 
     Run command `npm start`
